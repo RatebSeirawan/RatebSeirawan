@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rateb Seirawan</h1>
 
-- 🌱 I’m currently learning **RxJs, Rustlang**
-
 - 📝 I regularly write articles on [https://medium.com/@ratebseirawan](https://medium.com/@ratebseirawan)
 
 - 💬 Ask me about **React/React Native**
